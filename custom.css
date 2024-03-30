@@ -1,0 +1,10 @@
+.nav-link.disabled {
+    color: #868e96;
+    pointer-events: none;
+    cursor: default;
+}
+
+.nav-pills .nav-link.active {
+    color: #868e96;
+    background-color: orange;
+}
